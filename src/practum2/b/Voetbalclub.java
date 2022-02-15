@@ -11,6 +11,7 @@ public class Voetbalclub {
         naam = n;
 
 
+
     }
 
     public void verwerkResultaat(char ch) {
