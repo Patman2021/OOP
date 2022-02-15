@@ -9,7 +9,7 @@ public class Main {
         System.out.println("BEREKENDE INHOUD: " + z1.inhoud());
         System.out.println();
 
-        Zwembad z2 = new Zwembad( 0, 0,0);
+        Zwembad z2 = new Zwembad( );
         z2.setBreedte(2.5);
         z2.setLengte(100.0);
         z2.setDiepte(2.0);

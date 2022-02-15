@@ -10,7 +10,11 @@ public class Zwembad {
         lengte= l;
         diepte= d;
 
+
     }
+
+    public Zwembad (){
+}
     public  void setBreedte(double br) {breedte= br;}
     public  void setLengte(double l) {lengte= l;}
     public  void setDiepte(double d) {diepte= d;}
