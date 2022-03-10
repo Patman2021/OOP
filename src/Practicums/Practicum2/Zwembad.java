@@ -1,4 +1,4 @@
-package practum2;
+package Practicums.Practicum2;
 
 public class Zwembad {
     private double breedte;
